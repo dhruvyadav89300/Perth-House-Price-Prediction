@@ -6,6 +6,7 @@ This repository contains a project that focuses on predicting house prices in Pe
 
 ### Dataset
 
+[Perth House Prices](https://www.kaggle.com/datasets/syuzai/perth-house-prices)
 The dataset used in this project contains historical data on house prices in Perth, Australia. It includes a range of features such as the number of bedrooms, bathrooms, square footage, location, and other relevant characteristics of the properties. The dataset has been preprocessed to ensure data quality and consistency.
 - ADDRESS: Physical address of the property (will be set as the index)
 - SUBURB: Specific locality in Perth
